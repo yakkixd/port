@@ -1,3 +1,7 @@
+body {
+  background-color: #b4a7d6; /* Example color */
+}
+
 @media screen and (max-width: 1400px) {
   #profile {
     height: 83vh;
